@@ -1,4 +1,4 @@
-# robotic-maze-ecape
+# Robotic Maze Escape
 
 ## Project Overview
 
